@@ -1,0 +1,11 @@
+torch
+# YOLO internal requirements
+requests
+pillow
+opencv-python
+tqdm
+torchvision
+pyyaml
+matplotlib
+pandas
+seaborn
